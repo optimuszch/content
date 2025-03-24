@@ -1,0 +1,6 @@
+branding:
+  title: Optimuszch
+  label: Docs
+templating:
+  enabled: true # Set to false to disable
+  liquid: true # Set to true to enable
